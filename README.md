@@ -1,7 +1,4 @@
-<style>
-        .tab1 {
-            tab-size: 2;
-        }
+
 </style>
 <h1>Django api<h1></h1>
 <h3>Created api for CURD operations</h3>
