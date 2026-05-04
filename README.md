@@ -1,5 +1,5 @@
 
-</style>
+
 <h1>Django api<h1></h1>
 <h3>Created api for CURD operations</h3>
 <p>I have created a project for the operations perform, Such as insert, update, delete, fetch the data, filter the data, etc..
